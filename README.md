@@ -1,4 +1,4 @@
-## Hi there i'm Mahdi 👋
+## Hi there, I'm ***Mahdi Ghasri*** 👋
 
 ## My Activity
 <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Ghasri&show_icons=true&theme=tokyonight" />
