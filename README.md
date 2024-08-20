@@ -54,3 +54,6 @@
 </p>
 
 
+ ### About
+<img src="https://github-profile-trophy.vercel.app/?username=Mahdi-Ghasri&theme=dracula" />
+
