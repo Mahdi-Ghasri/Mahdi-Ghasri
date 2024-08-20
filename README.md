@@ -28,27 +28,23 @@
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sabzlearn-ir">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabzlearn-ir&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabzlearn-ir" />
+<a href="https://github.com/Mahdi-Ghasri">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi-Ghasri&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Ghasri" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="center">
-  <a href="https://sabzlearn.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
-  </a>
+
   <a href="https://instagram.com/the_king_of_mahdi/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
+    <img src="[https://img.shields.io/badge/Instagram-@the_king_of_mahdi?style=flat&logo=instagram](https://img.shields.io/badge/Instagram-@the_king_of_mahdi-red?style=flat&logo=instagram)" />
   </a>
+
+  
   <a href="https://t.me/Mahdii_4029/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@Mahdi_4029-blue?style=flat&logo=telegram" />
   </a>
 </p>
-
-<br />
-
-⭐️ From [Sabzlearn ❤️](https://sabzlearn.ir/)
 
 
