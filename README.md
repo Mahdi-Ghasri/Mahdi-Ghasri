@@ -45,6 +45,12 @@
   <a href="https://t.me/Mahdii_4029/">
     <img src="https://img.shields.io/badge/Telegram-@Mahdi_4029-blue?style=flat&logo=telegram" />
   </a>
+
+  ### Support Me
+
+<a href="">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
 </p>
 
 
