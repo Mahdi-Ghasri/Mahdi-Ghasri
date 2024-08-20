@@ -38,7 +38,7 @@
 <p align="center">
 
   <a href="https://instagram.com/the_king_of_mahdi/">
-    <img src="[https://img.shields.io/badge/Instagram-@the_king_of_mahdi?style=flat&logo=instagram](https://img.shields.io/badge/Instagram-@the_king_of_mahdi-red?style=flat&logo=instagram)" />
+    <img src="https://img.shields.io/badge/Instagram-@the_king_of_mahdi-red?style=flat&logo=instagram" />
   </a>
 
   
