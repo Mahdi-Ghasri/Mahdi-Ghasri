@@ -2,19 +2,22 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
+```python
   Info = {
     FullName: "Mahdi Ghasri",
     Birthday: "1984 May 12",
     University:🎓"Graduated in Agriculture, Karaj University",
-    Hobbies:✍️["Coding","Book", "Music", "Soccer", "Game"],
+    Hobbies:["Coding","Book", "Music", "Soccer", "Game"],
     Quote: "Life is a Test. 😉"
-  }
+    }
+  ```
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+  ![MySQL](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
